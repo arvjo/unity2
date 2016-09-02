@@ -14,5 +14,6 @@ public class NewBehaviourScript : MonoBehaviour {
         Debug.Log("hej då");
         Debug.Log("hej då");
         Debug.Log("hej då");
+        Debug.Log("snälla fungera");
     }
 }
